@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmMonitorApply/findById",
+	"case1": {
+		"body": {
+			"id": 880
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取远程监查申请详情成功"
+	}
+}

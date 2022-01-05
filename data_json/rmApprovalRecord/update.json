@@ -1,0 +1,24 @@
+{
+	"url": "/api/gcp-rm/rmApprovalRecord/update",
+	"case1": {
+		"body": {
+			"active": 0,
+			"approvalId": 0,
+			"authId": 0,
+			"authName": "",
+			"authRole": "",
+			"authorityDesc": "",
+			"authorityId": 0,
+			"authorityName": "",
+			"authorityTime": "",
+			"id": 0,
+			"operation": "",
+			"status": "",
+			"step": 0,
+			"tenantCode": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "审批记录修改成功"
+	}
+}

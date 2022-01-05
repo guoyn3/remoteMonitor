@@ -1,0 +1,12 @@
+{
+	"url": "/api/gcp-rm/rmApproval/monitorRefuse",
+	"case1": {
+		"body": {
+			"desc": "审批通过",
+			"id": 890
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "远程监查审批拒绝成功"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"url": "/api/gcp-rm/rmApprovalRecord/findByPage",
+	"case1": {
+		"body": {
+			"pageNumber": 1,
+			"pageSize": 5
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取审批记录分页成功"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"url": "/api/gcp-rm/rmApproval/findByPage",
+	"case1": {
+		"body": {
+			"authorityDesc": "",
+			"authorityId": "",
+			"authorityName": "",
+			"authorityTime": "",
+			"createId": "",
+			"createName": "",
+			"createTime": "",
+			"id": "",
+			"operation": "",
+			"pageNumber": 1,
+			"pageSize": 5,
+			"process": "",
+			"sourceId": 1645,
+			"status": "",
+			"tenantCode": "",
+			"type": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "查询审批分页成功"
+	}
+}

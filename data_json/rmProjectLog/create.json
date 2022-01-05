@@ -1,0 +1,94 @@
+{
+	"url": "/api/gcp-rm/rmProjectLog/create",
+	"case1": {
+		"body": {
+			"createTime": "2021-12-01 00:00:00",
+			"id": "",
+			"logDesc": "新增项目",
+			"logType": 0,
+			"projectId": 249,
+			"tenantCode": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "新增项目新增时间轴记录成功"
+	},
+	"case2": {
+		"body": {
+			"createTime": "2021-12-01 00:00:00",
+			"id": "",
+			"logDesc": "项目启动",
+			"logType": 1,
+			"projectId": 249,
+			"tenantCode": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "项目启动新增时间轴记录成功"
+	},
+	"case3": {
+		"body": {
+			"createTime": "2021-12-01 00:00:00",
+			"id": "",
+			"logDesc": "项目启动审批通过 gtest1",
+			"logType": 2,
+			"projectId": 249,
+			"tenantCode": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "项目审批/启动审批新增时间轴记录成功"
+	},
+	"case4": {
+		"body": {
+			"createTime": "2021-12-01 00:00:00",
+			"id": "",
+			"logDesc": "受试者(0001)入组",
+			"logType": 3,
+			"projectId": 249,
+			"tenantCode": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "受试者入组新增时间轴记录成功"
+	},
+	"case5": {
+		"body": {
+			"createTime": "2021-12-01 00:00:00",
+			"id": "",
+			"logDesc": "首次监查 gtest1",
+			"logType": 4,
+			"projectId": 249,
+			"tenantCode": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "远程监查新增时间轴记录成功"
+	},
+	"case6": {
+		"body": {
+			"createTime": "2021-12-01 00:00:00",
+			"id": "",
+			"logDesc": "SAE：00001",
+			"logType": 5,
+			"projectId": 249,
+			"tenantCode": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "SAE新增时间轴记录成功"
+	},
+	"case7": {
+		"body": {
+			"createTime": "2021-12-01 00:00:00",
+			"id": "",
+			"logDesc": "项目结项",
+			"logType": 6,
+			"projectId": 249,
+			"tenantCode": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "项目结项新增时间轴记录成功"
+	}
+}

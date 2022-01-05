@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmProject/findDetailNum",
+	"case1": {
+		"body": {
+			"id": 180
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "查询详情页tab数据成功"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmUser/findUser",
+	"case1": {
+		"body": {
+			"id":"1468100469698637825"
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取用户详情成功"
+	}
+}

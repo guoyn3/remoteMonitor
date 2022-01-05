@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmApproval/findById",
+	"case1": {
+		"body": {
+			"id": 1040
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "查询审批详情成功"
+	}
+}

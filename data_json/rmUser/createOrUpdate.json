@@ -1,0 +1,21 @@
+{
+	"url": "/api/gcp-rm/rmSubject/cancelById",
+	"case1": {
+		"body": {
+			"id": "1468100469698637825",
+			"username": "guo_test",
+			"idCard": "632323190605265109",
+			"trueName": "guo_test",
+			"roleId": "1406922767990784000",
+			"organizeId": "2",
+			"email": "",
+			"mobile": "15111111111",
+			"projectIdList": [],
+			"validStartTime": "",
+			"validEndTime": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "新增或编辑用户成功"
+	}
+}

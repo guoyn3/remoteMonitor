@@ -1,0 +1,19 @@
+{
+	"url": "/api/gcp-rm/rmSubject/create",
+	"case1": {
+		"body": {
+			"phoneticShort": "test",
+			"subjectNo": "no0001",
+			"icfDate": "2021-12-01",
+			"screenDate": "",
+			"dropDate": "",
+			"inclusionNo": "",
+			"dropReason": "",
+			"inpatientSn": "1",
+			"projectId": 242
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "受试者新增成功"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmProjectSnapshot/findById",
+	"case1": {
+		"body": {
+			"id": 242
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取项目(快照)详情成功"
+	}
+}

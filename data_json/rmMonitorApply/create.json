@@ -1,0 +1,23 @@
+{
+	"url": "/api/gcp-rm/rmMonitorApply/create",
+	"case1": {
+		"body": {
+			"id": "",
+			"projectNo": "",
+			"startTime": "2022-01-01 00:00:00",
+			"endTime": "2022-01-01 23:59:59",
+			"monitorPtype": 1,
+			"monitorTarget": "",
+			"subjectType": 1,
+			"subjects": "0001",
+			"monitorStype": "diagnose",
+			"timeType": 1,
+			"startNum": 1,
+			"validStartTime": ["2021-12-12T16:00:00.000Z", "2021-12-12T16:00:00.000Z"],
+			"projectId": "242"
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "远程监查申请新增成功"
+	}
+}

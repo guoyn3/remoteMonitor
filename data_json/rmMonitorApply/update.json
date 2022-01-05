@@ -1,0 +1,30 @@
+{
+	"url": "/api/gcp-rm/rmMonitorApply/update",
+	"case1": {
+		"body": {
+			"applyId": 1462974935490670593,
+			"applyName": "",
+			"applyStatus": 0,
+			"applyTime": "",
+			"checkName": "",
+			"checkTime": "",
+			"endTime": "",
+			"id": 0,
+			"monitorPtype": 0,
+			"monitorStype": "",
+			"monitorTarget": "",
+			"projectId": 963,
+			"projectName": "",
+			"projectNo": "",
+			"startNum": 0,
+			"startTime": "",
+			"subjectType": 0,
+			"subjects": "",
+			"tenantCode": "",
+			"timeType": 0
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "远程监查申请修改成功"
+	}
+}

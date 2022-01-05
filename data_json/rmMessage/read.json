@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmMessage/read",
+	"case1": {
+		"body": {
+			"id": "2969"
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "已读消息成功"
+	}
+}

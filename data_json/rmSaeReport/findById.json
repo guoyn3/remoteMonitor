@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmSaeReport/findById",
+	"case1": {
+		"body": {
+			"id": 565
+		},
+		"code": 1000,
+		"message": "成功!",
+		"title": "获取sae上报详情成功"
+	}
+}

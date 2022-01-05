@@ -1,0 +1,57 @@
+{
+	"url": "/api/gcp-rm/rmMessage/queryCount",
+	"case1": {
+		"body": {
+			"isRead": 0,
+			"type": 0
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询未读的全部消息总数"
+	},
+	"case2": {
+		"body": {
+			"isRead": 0,
+			"type": 1
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询未读的项目消息总数"
+	},
+	"case3": {
+		"body": {
+			"isRead": 0,
+			"type": 2
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询未读的系统消息总数"
+	},
+	"case4": {
+		"body": {
+			"isRead": 1,
+			"type": 0
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询已读的全部消息总数"
+	},
+	"case5": {
+		"body": {
+			"isRead": 1,
+			"type": 1
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询已读的项目消息总数"
+	},
+	"case6": {
+		"body": {
+			"isRead": 1,
+			"type": 2
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询已读的系统消息总数"
+	}
+}

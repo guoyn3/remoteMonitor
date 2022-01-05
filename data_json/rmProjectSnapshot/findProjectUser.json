@@ -1,0 +1,13 @@
+{
+	"url": "/api/gcp-rm/rmProjectSnapshot/findProjectUser",
+	"case1": {
+		"body": {
+			"pageNumber": 1,
+			"pageSize": 10,
+			"projectId": 180
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取项目人员(快照)列表成功"
+	}
+}

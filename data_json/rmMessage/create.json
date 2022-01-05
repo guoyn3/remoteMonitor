@@ -1,0 +1,25 @@
+{
+	"url": "/api/gcp-rm/rmMessage/create",
+	"case1": {
+		"body": {
+			"body": "您收到了gtest1(CRC)的受试者信息申请，请您查看。",
+			"createTime": "2021-12-12 12:12:12",
+			"header": {
+				"jumpType": "SUBJECT_APPROVAL",
+				"projectId": 239,
+				"subjectId": 1657,
+				"subjectApplyId": 1462974935490670593
+			},
+			"id": "",
+			"isRead": 0,
+			"receiver": "1462974935490670593",
+			"sender": "1462974935490670593",
+			"tenantCode": "",
+			"title": "受试者审批",
+			"type": 1
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "消息记录新增成功"
+	}
+}

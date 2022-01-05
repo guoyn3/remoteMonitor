@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmMonitorApply/canApply",
+	"case1": {
+		"body": {
+			"projectId": 242
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "判断远程监查能否新增成功"
+	}
+}

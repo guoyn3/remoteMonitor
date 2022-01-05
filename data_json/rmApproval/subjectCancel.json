@@ -1,0 +1,12 @@
+{
+	"url": "/api/gcp-rm/rmApproval/subjectCancel",
+	"case1": {
+		"body": {
+			"desc": "受试者审批取消成功",
+			"id": 0
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "受试者审批取消成功"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"url": "/api/gcp-rm/rmProjectLog/update",
+	"case1": {
+		"body": {
+			"createTime": "2021-12-02 00:00:00",
+			"id": 3444,
+			"logDesc": "受试者(0001)入组",
+			"logType": 3,
+			"projectId": 249,
+			"tenantCode": ""
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "更新时间轴记录成功"
+	}
+}

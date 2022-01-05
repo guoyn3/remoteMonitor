@@ -1,0 +1,12 @@
+{
+	"url": "/api/gcp-rm/rmApproval/projectPass",
+	"case1": {
+		"body": {
+			"desc": "项目审批通过",
+			"id": 233
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "项目审批通过成功"
+	}
+}

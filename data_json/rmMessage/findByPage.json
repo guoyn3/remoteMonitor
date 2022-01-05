@@ -1,0 +1,67 @@
+{
+	"url": "/api/gcp-rm/rmMessage/findByPage",
+	"case1": {
+		"body": {
+			"pageNumber": 1,
+			"pageSize": 10,
+			"type": 1
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询所有项目消息成功"
+	},
+	"case2": {
+		"body": {
+			"isRead": 0,
+			"pageNumber": 1,
+			"pageSize": 10,
+			"type": 1
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询未读项目消息成功"
+	},
+	"case3": {
+		"body": {
+			"isRead": 1,
+			"pageNumber": 1,
+			"pageSize": 10,
+			"type": 1
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询已读项目消息成功"
+	},
+	"case4": {
+		"body": {
+			"pageNumber": 1,
+			"pageSize": 10,
+			"type": 2
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询所有系统消息成功"
+	},
+	"case5": {
+		"body": {
+			"isRead": 0,
+			"pageNumber": 1,
+			"pageSize": 10,
+			"type": 2
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询未读系统消息成功"
+	},
+	"case6": {
+		"body": {
+			"isRead": 1,
+			"pageNumber": 1,
+			"pageSize": 10,
+			"type": 2
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "查询已读系统消息成功"
+	}
+}

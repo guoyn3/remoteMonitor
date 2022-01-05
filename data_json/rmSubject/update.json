@@ -1,0 +1,20 @@
+{
+	"url": "/api/gcp-rm/rmSubject/create",
+	"case1": {
+		"body": {
+			"phoneticShort": "lisi",
+			"subjectNo": "0001",
+			"icfDate": "2021-12-01",
+			"screenDate": null,
+			"dropDate": "",
+			"inclusionNo": "",
+			"dropReason": "",
+			"id": 1758,
+			"idCard": "360501195112228308",
+			"projectId": 180
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "受试者修改成功"
+	}
+}

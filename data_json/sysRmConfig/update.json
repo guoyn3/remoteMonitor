@@ -1,0 +1,21 @@
+{
+	"url": "/api/gcp-rm/sysRmConfig/update",
+	"case1": {
+		"body": {
+			"configType": "ADMIN_SP",
+			"id": 2
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "远程监查配置修改成功"
+	},
+	"case2": {
+		"body": {
+			"configType": "ADMIN_SP",
+			"id": 3
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "受试者审批配置修改成功"
+	}
+}

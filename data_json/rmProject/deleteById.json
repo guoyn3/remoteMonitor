@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmProject/deleteById",
+	"case1": {
+		"body": {
+                "id": 238
+                },
+		"code": 0,
+		"message": "成功!",
+		"title": "项目删除成功"
+	}
+}

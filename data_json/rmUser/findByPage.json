@@ -1,0 +1,14 @@
+{
+	"url": "/api/gcp-rm/rmUser/findByPage",
+	"case1": {
+		"body": {
+			"pageNumber":1,
+			"pageSize": 5,
+			"projectId": 180
+
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取项目人员列表成功"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmProjectUser/findUserProjectCount",
+	"case1": {
+		"body": {
+			"userIds": ["1462974935490670593", "1463026627703779329"]
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取用户参与项目数量成功"
+	}
+}

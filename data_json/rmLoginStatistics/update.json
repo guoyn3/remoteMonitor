@@ -1,0 +1,17 @@
+{
+	"url": "/api/gcp-rm/rmLoginStatistics/update",
+	"case1": {
+		"body": {
+			"id": "",
+			"logMins": "",
+			"loginTime": "",
+			"logoutTime": "",
+			"roles": "",
+			"uniqueIdent": "",
+			"userId": 1462974935490670593
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "用户登录时长统计修改成功"
+	}
+}

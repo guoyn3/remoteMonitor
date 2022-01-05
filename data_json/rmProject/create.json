@@ -1,0 +1,66 @@
+{
+	"url": "/api/gcp-rm/rmProject/create",
+	"case1": {
+		"body": {
+			"belongSpecialty": "所属专业",
+			"croSponsName": "CRO",
+			"indications": "适应症",
+			"mainResearcherName": "主要研究者",
+			"projectName": "guo测试项目",
+			"projectNo": "guo测试项目0001",
+			"sponsName": "申办方",
+			"testObjectName": "受试品名称",
+			"trialCreateTime": "2021-12-01 00:00:00",
+			"trialEndTime": "",
+			"trialMethod": "试验方法",
+			"trialPhase": "实验分期",
+			"trialStartDate": "2021-12-01 00:00:00",
+			"userIds": ["1462974935490670593", "1463026627703779329","1466649354205442049","1466649494303584258"]
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "项目新增成功"
+	},
+	"case2": {
+		"body": {
+			"belongSpecialty": "所属专业",
+			"croSponsName": "CRO",
+			"indications": "适应症",
+			"mainResearcherName": "主要研究者",
+			"projectName": "测试项目",
+			"projectNo": "缺少CRA或PI账号",
+			"sponsName": "申办方",
+			"testObjectName": "受试品名称",
+			"trialCreateTime": "2021-12-01 00:00:00",
+			"trialEndTime": "",
+			"trialMethod": "试验方法",
+			"trialPhase": "实验分期",
+			"trialStartDate": "2021-12-01 00:00:00",
+			"userIds": ["1462974935490670593", "1463026627703779329"]
+		},
+		"code": 1002,
+		"message": "该项目缺失对应的CRA或者PI的账号基本信息,请添加补充相关信息",
+		"title": "缺少CRA或PI账号，新增项目失败"
+	},
+	"case3": {
+		"body": {
+			"belongSpecialty": "所属专业",
+			"croSponsName": "CRO",
+			"indications": "适应症",
+			"mainResearcherName": "主要研究者",
+			"projectName": "测试项目",
+			"projectNo": "1116",
+			"sponsName": "申办方",
+			"testObjectName": "受试品名称",
+			"trialCreateTime": "2021-12-01 00:00:00",
+			"trialEndTime": "",
+			"trialMethod": "试验方法",
+			"trialPhase": "实验分期",
+			"trialStartDate": "2021-12-01 00:00:00",
+			"userIds": ["1462974935490670593", "1463026627703779329","1466649354205442049","1466649494303584258"]
+		},
+		"code": 1002,
+		"message": "项目编号不可重复",
+		"title": "项目编号重复，新增项目失败"
+	}
+}

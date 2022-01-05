@@ -1,0 +1,12 @@
+{
+	"url": "/api/gcp-rm/rmSubject/checkUnique",
+	"case1": {
+		"body": {
+			"projectId": 242,
+			"subjectNo": "0001"
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "校验受试者唯一性成功"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"url": "/api/gcp-rm/rmApproval/process",
+	"case1": {
+		"body": {
+			"id": 1658,
+			"projectId": 242,
+			"type": "PROJECT_SUBJECT"
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "查询审批进度成功"
+	}
+}

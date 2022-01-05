@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmMonitorApply/deleteById",
+	"case1": {
+		"body": {
+			"id": 0
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "远程监查申请删除成功"
+	}
+}

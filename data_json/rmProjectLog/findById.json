@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmProjectLog/deleteById",
+	"case1": {
+		"body": {
+			"id": 3444
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "查看时间轴记录详情成功"
+	}
+}

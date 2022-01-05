@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmProject/findById",
+	"case1": {
+		"body": {
+			"id": 180
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "查询项目详情成功"
+	}
+}

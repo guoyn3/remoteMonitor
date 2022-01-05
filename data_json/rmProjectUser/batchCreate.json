@@ -1,0 +1,12 @@
+{
+	"url": "/api/gcp-rm/rmProjectUser/batchCreate",
+	"case1": {
+		"body": {
+			"projectId": 180,
+			"userIdList": ["1462974935490670593", "1463026627703779329"]
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "项目纳入用户成功"
+	}
+}

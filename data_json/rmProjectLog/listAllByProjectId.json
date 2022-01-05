@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmProjectLog/listAllByProjectId",
+	"case1": {
+		"body": {
+			"projectId": 249
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取项目下所有时间轴记录成功"
+	}
+}

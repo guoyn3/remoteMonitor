@@ -1,0 +1,12 @@
+{
+	"url": "/api/gcp-rm/rmProjectUser/batchDelete",
+	"case1": {
+		"body": {
+			"projectId": 180,
+			"userId": 1447113116683382785
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "判断用户是否在项目成功"
+	}
+}

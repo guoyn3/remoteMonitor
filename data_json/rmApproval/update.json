@@ -1,0 +1,24 @@
+{
+	"url": "/api/gcp-rm/rmApproval/update",
+	"case1": {
+		"body": {
+			"authorityDesc": "审批通过",
+			"authorityId": "1462974935490670593",
+			"authorityName": "gtest1",
+			"authorityTime": "2021-12-01 11:11:11",
+			"createId": "1462974935490670593",
+			"createName": "gtest1",
+			"createTime": "2021-12-01 11:11:11",
+			"id": "",
+			"operation": "PASS",
+			"process": "FINISHED",
+			"sourceId": 1645,
+			"status": "WAITING",
+			"tenantCode": "",
+			"type": "PROJECT_SUBJECT"
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "审批表修改成功"
+	}
+}

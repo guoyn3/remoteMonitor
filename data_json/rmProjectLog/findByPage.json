@@ -1,0 +1,12 @@
+{
+	"url": "/api/gcp-rm/rmProjectLog/findByPage",
+	"case1": {
+		"body": {
+			"pageNumber": 1,
+			"pageSize": 10
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "查询项目时间轴记录分页成功"
+	}
+}

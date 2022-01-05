@@ -1,0 +1,14 @@
+{
+	"url": "/api/gcp-rm/rmSubject/findByPage",
+	"case1": {
+		"body": {
+			"pageNumber": 1,
+			"pageSize": 5,
+			"projectId": 242,
+			"applyStatusList":[4,5,6]
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取受试者分页成功"
+	}
+}

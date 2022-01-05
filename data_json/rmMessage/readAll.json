@@ -1,0 +1,27 @@
+{
+	"url": "/api/gcp-rm/rmMessage/read",
+	"case1": {
+		"body": {
+			"type": 0
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "已读全部消息成功"
+	},
+	"case2": {
+		"body": {
+			"type": 1
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "已读全部项目消息成功"
+	},
+	"case3": {
+		"body": {
+			"type": 2
+		},
+		"code": "0",
+		"message": "成功!",
+		"title": "已读全部系统消息成功"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"url": "/api/gcp-rm/rmSubject/viewSubject360",
+	"case1": {
+		"body": {
+			"cdrUrl": "http://10.0.6.78/new_cdr_ui/#/PatientDetailPage/undefined/undefined?sdvJson={\"upload_show\":true,\"tab_list\":[\"diagnose\",\"medical_record_home_page_new\",\"medical_document\",\"drug\",\"inspection\",\"imaging_exam\",\"operation\",\"nursing_record\",\"nursing\",\"measuring_record\",\"non_drug_orders\",\"forsz\",\"micm\",\"img_file\"],\"inpatientSn\":\"0001\"}",
+		"code": 0,
+		"message": "成功!",
+		"title": "查看受试者360成功"
+	}
+}

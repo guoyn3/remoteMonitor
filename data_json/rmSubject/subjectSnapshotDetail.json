@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmSubject/subjectSnapshotDetail",
+	"case1": {
+		"body": {
+			"id": "1646"
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "获取受试者详情成功"
+	}
+}

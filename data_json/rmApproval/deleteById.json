@@ -1,0 +1,11 @@
+{
+	"url": "/api/gcp-rm/rmApproval/deleteById",
+	"case1": {
+		"body": {
+			"id": 1
+		},
+		"code": 0,
+		"message": "成功!",
+		"title": "删除审批成功"
+	}
+}
